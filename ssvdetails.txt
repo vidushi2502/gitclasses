@@ -3,5 +3,7 @@ Phone : 98971232
 Address : gzb
 College : abesec
 
-name 2: vidushi
+
+name : Vidushi Gupta
+Phone : 9897123261
 
